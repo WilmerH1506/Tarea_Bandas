@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "430526946978",
+    "project_id": "bandasrock-6532f",
+    "storage_bucket": "bandasrock-6532f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430526946978:android:c485354643968f600b81fb",
+        "android_client_info": {
+          "package_name": "com.example.tarea_bandas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL-XZVgrCY2JrpexnTizgjrep1q2peWQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
